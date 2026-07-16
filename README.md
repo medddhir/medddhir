@@ -1,45 +1,354 @@
-<!--
-MEDHIR LOKHANDE — VISUAL FOUNDER PROFILE
-All artwork in /assets is original SVG built for this repository.
--->
+<!-- =========================================================
+                     MEDHIR // FOUNDER SIGNAL
+     One-file GitHub profile. No local images or extra assets.
+========================================================== -->
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Medhir Lokhande — Founder, Operator, Researcher">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:030712,40:111827,70:172554,100:030712&text=MEDHIR%20LOKHANDE&fontColor=F8FAFC&fontSize=52&fontAlignY=42&desc=FOUNDER%20%E2%80%A2%20OPERATOR%20%E2%80%A2%20SYSTEMS%20BUILDER&descAlignY=64&descSize=15&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=5EE7FF&center=true&vCenter=true&width=920&lines=I+turn+messy+real-world+problems+into+software.;Building+CryptixBot+%2F%2F+TurboPay.;Researching+future+systems+through+Project+Beyond+Life." alt="Founder introduction"/>
 
 <br>
 
-<a href="https://turbo-pay.in"><img src="assets/link-turbopay.svg" width="32%" alt="TurboPay Technologies"></a>
-<a href="https://cryptixbot.com"><img src="assets/link-cryptixbot.svg" width="32%" alt="CryptixBot"></a>
-<a href="https://www.linkedin.com/in/medhirr"><img src="assets/link-linkedin.svg" width="32%" alt="LinkedIn"></a>
+<a href="https://turbo-pay.in">
+  <img height="36" src="https://img.shields.io/badge/CORE-ENTER_TURBOPAY-4F8CFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=05080D" alt="TurboPay">
+</a>
+&nbsp;
+<a href="https://cryptixbot.com">
+  <img height="36" src="https://img.shields.io/badge/EXEC-OPEN_CRYPTIXBOT-39FF88?style=for-the-badge&logo=bitcoin&logoColor=05080D&labelColor=05080D" alt="CryptixBot">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/medhirr">
+  <img height="36" src="https://img.shields.io/badge/SIGNAL-LINKEDIN-5EE7FF?style=for-the-badge&logo=linkedin&logoColor=05080D&labelColor=05080D" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:medhir@turbo-pay.in">
+  <img height="36" src="https://img.shields.io/badge/TRANSMIT-EMAIL-A78BFA?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=05080D" alt="Email">
+</a>
 
 <br><br>
 
-<img src="assets/story.svg" width="100%" alt="Medhir's path from logistics to technology">
+<code>MUMBAI, INDIA</code>
+&nbsp;·&nbsp;
+<code>FINTECH</code>
+&nbsp;·&nbsp;
+<code>AI SYSTEMS</code>
+&nbsp;·&nbsp;
+<code>AUTOMATION</code>
+
+</div>
+
+---
+
+<div align="center">
+
+## `THE 30-SECOND STORY`
+
+I spent **6+ years around real logistics operations** and saw how broken workflows waste time, money and human effort.
+
+### Now I build systems that remove that friction.
+
+</div>
+
+```mermaid
+%%{init: {
+  "theme": "base",
+  "flowchart": {
+    "curve": "basis",
+    "htmlLabels": true,
+    "nodeSpacing": 70,
+    "rankSpacing": 75,
+    "padding": 24
+  },
+  "themeVariables": {
+    "background": "#05080d",
+    "primaryTextColor": "#f8fafc",
+    "lineColor": "#5ee7ff",
+    "fontFamily": "Inter, Segoe UI, sans-serif",
+    "fontSize": "18px"
+  }
+}}%%
+
+flowchart TB
+
+    A(["◉ REAL OPERATIONS<br/>Saw broken workflows"])
+    B(["⬢ SYSTEM THINKING<br/>Learned to automate"])
+    C(["◈ CRYPTIXBOT<br/>Working product today"])
+    D(["◆ TURBOPAY<br/>The larger fintech platform"])
+    E(["∞ BEYOND LIFE<br/>Private long-term research"])
+
+    A ==> B
+    B ==> C
+    C ==> D
+    B -. long horizon .-> E
+
+    classDef origin fill:#111827,stroke:#FFB86B,stroke-width:3px,color:#F8FAFC,font-size:18px;
+    classDef system fill:#0B1820,stroke:#5EE7FF,stroke-width:3px,color:#F8FAFC,font-size:18px;
+    classDef live fill:#071A14,stroke:#39FF88,stroke-width:3px,color:#F8FAFC,font-size:18px;
+    classDef next fill:#0B1226,stroke:#4F8CFF,stroke-width:3px,color:#F8FAFC,font-size:18px;
+    classDef research fill:#171126,stroke:#A78BFA,stroke-width:3px,color:#F8FAFC,font-size:18px;
+
+    class A origin;
+    class B system;
+    class C live;
+    class D next;
+    class E research;
+
+    linkStyle 0 stroke:#5EE7FF,stroke-width:4px;
+    linkStyle 1 stroke:#39FF88,stroke-width:4px;
+    linkStyle 2 stroke:#4F8CFF,stroke-width:4px;
+    linkStyle 3 stroke:#A78BFA,stroke-width:2px,stroke-dasharray:7 6;
+```
+
+---
+
+<div align="center">
+
+## `THREE SYSTEMS // ONE DIRECTION`
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### `01 // NOW`
+
+## ◈ CRYPTIXBOT
+
+**Trading automation without taking custody of user funds.**
+
+</div>
+
+Users connect their own exchange accounts and operate controlled trading systems.
+
+```text
+BUILT
+✓ Grid trading
+✓ Live + simulation
+✓ Risk controls
+✓ Monitoring
+✓ User + admin systems
+```
+
+**Current mission:**  
+Prove reliability with controlled real-money users.
+
+<div align="center">
+
+<a href="https://cryptixbot.com">
+  <img src="https://img.shields.io/badge/LAUNCH-CRYPTIXBOT-39FF88?style=for-the-badge&labelColor=071A14" alt="Launch CryptixBot">
+</a>
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### `02 // NEXT`
+
+## ◆ TURBOPAY
+
+**Consumer finance connected to real merchant utility.**
+
+</div>
+
+A platform for responsible spending, rewards, repayment behaviour and regulated access to small credit limits.
+
+```text
+BUILDING
+→ Consumer experience
+→ Merchant technology
+→ Rewards
+→ Repayments
+→ Regulated partnerships
+```
+
+**Current mission:**  
+Validate demand, merchants and lending partners.
+
+<div align="center">
+
+<a href="https://turbo-pay.in">
+  <img src="https://img.shields.io/badge/ENTER-TURBOPAY-4F8CFF?style=for-the-badge&labelColor=0B1226" alt="Enter TurboPay">
+</a>
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### `03 // LONG HORIZON`
+
+## ∞ BEYOND LIFE
+
+**Private research for difficult future problems.**
+
+</div>
+
+Multiple AI systems analyse public knowledge, challenge assumptions and preserve contradictions.
+
+```text
+METHOD
+◌ Collect evidence
+◌ Compare models
+◌ Attack weak claims
+◌ Structure findings
+◌ Build only when ready
+```
+
+**Current mission:**  
+Research first. Real-world solutions later.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MODE-PRIVATE_RESEARCH-A78BFA?style=for-the-badge&labelColor=171126" alt="Private research">
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `WHY THESE BELONG TOGETHER`
+
+</div>
+
+```mermaid
+%%{init: {
+  "theme": "base",
+  "flowchart": {
+    "curve": "basis",
+    "htmlLabels": true,
+    "nodeSpacing": 70,
+    "rankSpacing": 65,
+    "padding": 24
+  },
+  "themeVariables": {
+    "background": "#05080d",
+    "primaryTextColor": "#f8fafc",
+    "lineColor": "#5ee7ff",
+    "fontFamily": "Inter, Segoe UI, sans-serif",
+    "fontSize": "18px"
+  }
+}}%%
+
+flowchart TB
+
+    M(("MEDHIR<br/>Founder"))
+
+    P(["◉ SEE<br/>Find the real problem"])
+    S(["◇ DESIGN<br/>Shape the system"])
+    X(["⚙ BUILD<br/>Use software and AI"])
+    V(["✦ VERIFY<br/>Break it before users do"])
+    R(["↗ RELEASE<br/>Put it in front of real people"])
+
+    M ==> P
+    P ==> S
+    S ==> X
+    X ==> V
+    V ==> R
+    R -. learn from evidence .-> P
+
+    classDef founder fill:#0B1226,stroke:#5EE7FF,stroke-width:4px,color:#F8FAFC,font-size:19px;
+    classDef observe fill:#111827,stroke:#FFB86B,stroke-width:3px,color:#F8FAFC,font-size:18px;
+    classDef design fill:#0B1820,stroke:#5EE7FF,stroke-width:3px,color:#F8FAFC,font-size:18px;
+    classDef build fill:#071A14,stroke:#39FF88,stroke-width:3px,color:#F8FAFC,font-size:18px;
+    classDef verify fill:#1B140C,stroke:#FFB86B,stroke-width:3px,color:#F8FAFC,font-size:18px;
+    classDef release fill:#171126,stroke:#A78BFA,stroke-width:3px,color:#F8FAFC,font-size:18px;
+
+    class M founder;
+    class P observe;
+    class S design;
+    class X build;
+    class V verify;
+    class R release;
+
+    linkStyle 0 stroke:#5EE7FF,stroke-width:4px;
+    linkStyle 1 stroke:#FFB86B,stroke-width:3px;
+    linkStyle 2 stroke:#5EE7FF,stroke-width:3px;
+    linkStyle 3 stroke:#39FF88,stroke-width:3px;
+    linkStyle 4 stroke:#A78BFA,stroke-width:3px;
+    linkStyle 5 stroke:#5EE7FF,stroke-width:2px,stroke-dasharray:7 6;
+```
+
+<div align="center">
+
+### `SEE → DESIGN → BUILD → BREAK → RELEASE → LEARN`
+
+I use AI aggressively for development, research and testing.
+
+**AI accelerates the work. I remain responsible for the decisions.**
+
+</div>
+
+---
+
+<div align="center">
+
+## `CURRENT SIGNALS`
+
+<br>
+
+<img src="https://img.shields.io/badge/DPIIT-RECOGNISED_STARTUP-4F8CFF?style=flat-square&labelColor=05080D" alt="DPIIT recognised">
+&nbsp;
+<img src="https://img.shields.io/badge/CRYPTIXBOT-DEPLOYED-39FF88?style=flat-square&labelColor=05080D" alt="CryptixBot deployed">
+&nbsp;
+<img src="https://img.shields.io/badge/OPERATIONS-6%2B_YEARS-FFB86B?style=flat-square&labelColor=05080D" alt="6+ years operations">
+&nbsp;
+<img src="https://img.shields.io/badge/MBA-FINANCE-A78BFA?style=flat-square&labelColor=05080D" alt="MBA Finance">
+
 <br><br>
 
-<img src="assets/ventures.svg" width="100%" alt="TurboPay Technologies, CryptixBot and Project Beyond Life">
+```text
+PRIMARY MISSION     CryptixBot users + reliability
+NEXT MISSION        TurboPay validation + partnerships
+LONG MISSION        Research → defensible future solutions
+HONEST STATUS       Early. Building. Learning fast.
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# I AM NOT BUILDING A PERFECT PROFILE.
+
+# I AM BUILDING PROOF.
+
+<br>
+
+<a href="https://cryptixbot.com">
+  <img height="38" src="https://img.shields.io/badge/VIEW_WHAT_EXISTS-CRYPTIXBOT-39FF88?style=for-the-badge&labelColor=05080D" alt="CryptixBot">
+</a>
+&nbsp;
+<a href="https://turbo-pay.in">
+  <img height="38" src="https://img.shields.io/badge/VIEW_WHAT_IS_NEXT-TURBOPAY-4F8CFF?style=for-the-badge&labelColor=05080D" alt="TurboPay">
+</a>
+
 <br><br>
 
-<img src="assets/proof.svg" width="100%" alt="Current founder proof and evidence">
-<br><br>
+**Medhir Lokhande**  
+Founder & CEO — TurboPay Technologies Pvt. Ltd.
 
-<img src="assets/research.svg" width="100%" alt="Project Beyond Life research system">
-<br><br>
+<a href="https://www.linkedin.com/in/medhirr">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="mailto:medhir@turbo-pay.in">medhir@turbo-pay.in</a>
+&nbsp;·&nbsp;
+Mumbai, India
 
-<img src="assets/mission.svg" width="100%" alt="Current mission and founder focus">
-<br><br>
-
-<a href="mailto:medhir@turbo-pay.in"><strong>EMAIL</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://turbo-pay.in"><strong>TURBOPAY</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://cryptixbot.com"><strong>CRYPTIXBOT</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/medhirr"><strong>LINKEDIN</strong></a>
-
-<br><br>
-
-<img src="assets/footer.svg" width="100%" alt="The profile is the interface. The products are the proof.">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:030712,50:172554,100:030712"/>
 
 </div>
