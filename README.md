@@ -7,10 +7,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:030712,40:111827,70:172554,100:030712&text=MEDHIR%20LOKHANDE&fontColor=F8FAFC&fontSize=52&fontAlignY=42&desc=FOUNDER%20%E2%80%A2%20OPERATOR%20%E2%80%A2%20SYSTEMS%20BUILDER&descAlignY=64&descSize=15&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=5EE7FF&center=true&vCenter=true&width=920&lines=I+turn+messy+real-world+problems+into+software.;Building+CryptixBot+%2F%2F+TurboPay.;Researching+future+systems+through+Project+Beyond+Life." alt="Founder introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=5EE7FF&center=true&vCenter=true&width=920&lines=I+turn+messy+real-world+problems+into+software.;Built+Sagar+Cargo+automation+for+real+logistics+operations.;Building+CryptixBot+%2F%2F+TurboPay.;Researching+future+systems+through+Project+Beyond+Life." alt="Founder introduction"/>
 
 <br>
 
+<a href="https://sagarcargo.in">
+  <img height="36" src="https://img.shields.io/badge/OPS-OPEN_SAGAR_CARGO-FFB86B?style=for-the-badge&logo=files&logoColor=05080D&labelColor=05080D" alt="Sagar Cargo">
+</a>
+&nbsp;
 <a href="https://turbo-pay.in">
   <img height="36" src="https://img.shields.io/badge/CORE-ENTER_TURBOPAY-4F8CFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=05080D" alt="TurboPay">
 </a>
@@ -72,50 +76,93 @@ I spent **6+ years around real logistics operations** and saw how broken workflo
 
 flowchart TB
 
-    A(["◉ REAL OPERATIONS<br/>Saw broken workflows"])
-    B(["⬢ SYSTEM THINKING<br/>Learned to automate"])
-    C(["◈ CRYPTIXBOT<br/>Working product today"])
+    A(["◉ REAL OPERATIONS<br/>Saw broken logistics workflows"])
+    B(["⬢ SYSTEM THINKING<br/>Learned to automate them"])
+    F(["▣ SAGAR CARGO<br/>Booking, tracking and billing"])
+    C(["◈ CRYPTIXBOT<br/>Trading automation platform"])
     D(["◆ TURBOPAY<br/>The larger fintech platform"])
     E(["∞ BEYOND LIFE<br/>Private long-term research"])
 
     A ==> B
-    B ==> C
+    B ==> F
+    F ==> C
     C ==> D
     B -. long horizon .-> E
 
     classDef origin fill:#111827,stroke:#FFB86B,stroke-width:3px,color:#F8FAFC,font-size:18px;
     classDef system fill:#0B1820,stroke:#5EE7FF,stroke-width:3px,color:#F8FAFC,font-size:18px;
+    classDef logistics fill:#1B140C,stroke:#FFB86B,stroke-width:3px,color:#F8FAFC,font-size:18px;
     classDef live fill:#071A14,stroke:#39FF88,stroke-width:3px,color:#F8FAFC,font-size:18px;
     classDef next fill:#0B1226,stroke:#4F8CFF,stroke-width:3px,color:#F8FAFC,font-size:18px;
     classDef research fill:#171126,stroke:#A78BFA,stroke-width:3px,color:#F8FAFC,font-size:18px;
 
     class A origin;
     class B system;
+    class F logistics;
     class C live;
     class D next;
     class E research;
 
     linkStyle 0 stroke:#5EE7FF,stroke-width:4px;
-    linkStyle 1 stroke:#39FF88,stroke-width:4px;
-    linkStyle 2 stroke:#4F8CFF,stroke-width:4px;
-    linkStyle 3 stroke:#A78BFA,stroke-width:2px,stroke-dasharray:7 6;
+    linkStyle 1 stroke:#FFB86B,stroke-width:4px;
+    linkStyle 2 stroke:#39FF88,stroke-width:4px;
+    linkStyle 3 stroke:#4F8CFF,stroke-width:4px;
+    linkStyle 4 stroke:#A78BFA,stroke-width:2px,stroke-dasharray:7 6;
 ```
 
 ---
 
 <div align="center">
 
-## `THREE SYSTEMS // ONE DIRECTION`
+## `FOUR SYSTEMS // ONE DIRECTION`
 
 </div>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center">
 
-### `01 // NOW`
+### `01 // DEPLOYED & WORKING`
+
+## ▣ SAGAR CARGO SYSTEM
+
+**Automation built for a real logistics business.**
+
+</div>
+
+A deployed booking, tracking and billing system built for my father's logistics business.
+
+It replaced repetitive manual work with one connected operational workflow that is already being used to solve real problems.
+
+```text
+WORKING SYSTEM
+✓ Automated bookings
+✓ Shipment tracking
+✓ Billing workflows
+✓ Operational records
+✓ Reduced manual labour
+✓ Deployed in a real business
+```
+
+**What it proves:**  
+I can understand an operating problem, build the system and deploy it where the work actually happens.
+
+<div align="center">
+
+<a href="https://sagarcargo.in">
+  <img src="https://img.shields.io/badge/OPEN-SAGAR_CARGO_SYSTEM-FFB86B?style=for-the-badge&labelColor=1B140C" alt="Open Sagar Cargo">
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### `02 // NOW`
 
 ## ◈ CRYPTIXBOT
 
@@ -146,11 +193,18 @@ Prove reliability with controlled real-money users.
 </div>
 
 </td>
-<td width="33%" valign="top">
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
 
-### `02 // NEXT`
+### `03 // NEXT`
 
 ## ◆ TURBOPAY
 
@@ -181,11 +235,11 @@ Validate demand, merchants and lending partners.
 </div>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center">
 
-### `03 // LONG HORIZON`
+### `04 // LONG HORIZON`
 
 ## ∞ BEYOND LIFE
 
@@ -301,6 +355,8 @@ I use AI aggressively for development, research and testing.
 
 <br>
 
+<img src="https://img.shields.io/badge/SAGAR_CARGO-SYSTEM_DEPLOYED-FFB86B?style=flat-square&labelColor=05080D" alt="Sagar Cargo deployed">
+&nbsp;
 <img src="https://img.shields.io/badge/DPIIT-RECOGNISED_STARTUP-4F8CFF?style=flat-square&labelColor=05080D" alt="DPIIT recognised">
 &nbsp;
 <img src="https://img.shields.io/badge/CRYPTIXBOT-DEPLOYED-39FF88?style=flat-square&labelColor=05080D" alt="CryptixBot deployed">
@@ -312,6 +368,7 @@ I use AI aggressively for development, research and testing.
 <br><br>
 
 ```text
+WORKING PROOF       Sagar Cargo automation in daily operations
 PRIMARY MISSION     CryptixBot users + reliability
 NEXT MISSION        TurboPay validation + partnerships
 LONG MISSION        Research → defensible future solutions
@@ -330,6 +387,10 @@ HONEST STATUS       Early. Building. Learning fast.
 
 <br>
 
+<a href="https://sagarcargo.in">
+  <img height="38" src="https://img.shields.io/badge/VIEW_WHAT_ALREADY_WORKS-SAGAR_CARGO-FFB86B?style=for-the-badge&labelColor=05080D" alt="Sagar Cargo">
+</a>
+&nbsp;
 <a href="https://cryptixbot.com">
   <img height="38" src="https://img.shields.io/badge/VIEW_WHAT_EXISTS-CRYPTIXBOT-39FF88?style=for-the-badge&labelColor=05080D" alt="CryptixBot">
 </a>
